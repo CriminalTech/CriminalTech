@@ -1,0 +1,1 @@
+- 👋 Hola soy @CriminalTech y estoy comenzando en el mundo de la programación
